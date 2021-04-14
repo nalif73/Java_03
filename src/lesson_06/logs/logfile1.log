@@ -1,0 +1,7 @@
+INFO  2021-04-13 15:07:14 [main] ru.geekbrains.Server (Server.java:31) - Сервер запущен на порту 8189
+INFO  2021-04-13 15:07:14 [main] ru.geekbrains.Server (Server.java:34) - Ждем нового клиента..
+INFO  2021-04-13 15:08:03 [main] ru.geekbrains.Server (Server.java:37) - Клиент подключился
+INFO  2021-04-13 15:08:03 [main] ru.geekbrains.Server (Server.java:34) - Ждем нового клиента..
+INFO  2021-04-13 15:08:03 [Thread-1] ru.geekbrains.ClientHandler (ClientHandler.java:110) - Клиент послал сообщение '/login_ok Bob'
+INFO  2021-04-13 15:08:03 [Thread-1] ru.geekbrains.ClientHandler (ClientHandler.java:110) - Клиент послал сообщение 'Клиент Bob вошел в чат'
+INFO  2021-04-13 15:08:03 [Thread-1] ru.geekbrains.ClientHandler (ClientHandler.java:110) - Клиент послал сообщение '/clients_list Bob'
